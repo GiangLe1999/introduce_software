@@ -75,7 +75,7 @@ Xây dựng một **ứng dụng hỗ trợ quản lý bán hàng tạp hóa** t
 - File:  
   - `project_plan.pdf`  
   - `risk_management.xlsx`  
-- **Link GitHub:** [https://github.com/daianhdung/introduce_software](https://github.com/daianhdung/introduce_software)
+- **Link GitHub:** [[https://github.com/daianhdung/introduce_software](https://github.com/daianhdung/introduce_software)
 
 ---
 
