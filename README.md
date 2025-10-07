@@ -1,4 +1,4 @@
-# 🧠 NHẬP MÔN CÔNG NGHỆ PHẦN MỀM  
+# NHẬP MÔN CÔNG NGHỆ PHẦN MỀM  
 **(Introduction to Software Engineering – PTIT)**
 
 ## Thông tin sinh viên
